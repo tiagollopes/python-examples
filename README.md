@@ -26,10 +26,10 @@ Atualmente, o repositório cobre os seguintes tópicos:
 1. Certifique-se de ter o Python instalado (versão 3.x recomendada).
 2. Clone o repositório:
 
-   <pre>git clone https://github.com/tiagollopes/python-examples.git</pre>
+    <pre>git clone https://github.com/tiagollopes/python-examples.git</pre>
 
 3. Entre na pasta desejada e execute o arquivo:
 
-python3 if/if_else.py
+    <pre>python3 if/if_else.py</pre>
 
 ***Feito por Tiago Lopes*** - Santos/SP
